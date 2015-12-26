@@ -38,11 +38,8 @@
                 <?php require 'printCommentAdm.php' ?>
         </div><h3>Користувачі</h3>
     <div id="sas-comments"><?php require 'users.php' ?></div>
-</div>
-        </div>
-        <footer>
-            
-            <p class="footer"> © Copyright @ 2015  Andriy Akimenko. Kyiv. NTUU "KPI" </p>
-        </footer>
-    </body>
-</html>
+
+
+
+
+Hello
